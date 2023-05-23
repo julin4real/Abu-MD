@@ -10,7 +10,7 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined ? "./database.db" : 
 
 module.exports = {
 
-  ANTILINK: toBool(process.env.ANTI_LINK) || false,
+  ANTILINK: toBool(process.env.ANTI_LINK) || true,
 
   LOGS: toBool(process.env.LOGS) || true,
 
@@ -34,23 +34,23 @@ module.exports = {
 
   BRANCH: "master",
 
-  ANTIFAKE : process.env.ANTIFAKE || '',
+  ANTIFAKE : process.env.ANTIFAKE || '212',
 
-  FORWARD: process.env.FORWARD || '𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg;audio;audio/mp4;https://github.com/Afx-Abu/Abu-MD',
+  FORWARD: process.env.FORWARD || 'Julin4real 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg;audio;audio/mp4;https://github.julin4real/Abu-MD',
   
-  BOT_INFO: process.env.BOT_INFO || '𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu;917025994178;™𝐀𝐁𝐔 𝐌𝐃;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg',
+  BOT_INFO: process.env.BOT_INFO || 'Julin4real 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Julin;19543371477;™𝐀𝐁𝐔 𝐌𝐃;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg',
 
   WELCOME_MSG: process.env.WELCOME_MSG || "Hi @user Welcome to @gname",
 
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It was Nice Seeing you",
 
-  STICKER_DATA: process.env.STICKER_DATA || "Abu",
+  STICKER_DATA: process.env.STICKER_DATA || "Julin4real
 
   ACR_A: "ff489a0160188cf5f0750eaf486eee74",
 
   ACR_S: "ytu3AdkCu7fkRVuENhXxs9jsOW4YJtDXimAWMpJp",
 
-  SUDO: process.env.SUDO || "917025994178",
+  SUDO: process.env.SUDO || "19543371477",
 
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || " ",
 
