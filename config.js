@@ -36,9 +36,9 @@ module.exports = {
 
   ANTIFAKE : process.env.ANTIFAKE || '212',
 
-  FORWARD: process.env.FORWARD || 'Julin4real 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg;audio;audio/mp4;https://github.julin4real/Abu-MD',
+  FORWARD: process.env.FORWARD || 'Julin4real 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by julin;https://imgur.com/gE9LpBv.jpg;audio;audio/mp4;https://github.julin4real/Abu-MD',
   
-  BOT_INFO: process.env.BOT_INFO || 'Julin4real 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Julin;19543371477;™𝐀𝐁𝐔 𝐌𝐃;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg',
+  BOT_INFO: process.env.BOT_INFO || 'Julin4real 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Julin;19543371477;™Julin 𝐌𝐃;https://https://imgur.com/gE9LpBv.jpg',
 
   WELCOME_MSG: process.env.WELCOME_MSG || "Hi @user Welcome to @gname",
 
