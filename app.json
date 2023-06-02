@@ -5,7 +5,7 @@
 		"Abu",
 		"bot"
 	],
-	"repository": "https://github.com/Afx-Abu/Abu-MD",
+	"repository": "https://github.com/julin4real/Abu-MD",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
@@ -41,7 +41,7 @@
         "HEROKU_APP_NAME": {
             "description": "Exact name which you gave at the top",
             "required": true,
-            "value":""
+            "value":"julin4real"
         },
         "GOODBYE_MSG": {
             "description": "good bye ✅ ",
@@ -61,12 +61,12 @@
        "BOT_INFO": {
             "description": "Your bot menu info changing ;",
             "required": true,
-            "value":"𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu;917025994178;™𝐀𝐁𝐔 𝐌𝐃;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg"
+            "value":"𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu;917025994178;™𝐀𝐁𝐔 𝐌𝐃;https://imgur.com/gE9LpBv.jpg"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"Abu MD;Abu;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
+            "value":"julin MD;https://imgur.com/gE9LpBv.jpeg"
         },
         "MODE": {
             "description": "Private or public",
